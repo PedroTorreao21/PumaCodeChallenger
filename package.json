@@ -1,0 +1,26 @@
+{
+  "name": "pumachall",
+  "version": "1.0.0",
+  "description": "desafio puma",
+  "main": "3000",
+  "scripts": {
+    "test": "pumachall"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroTorreao21/PumaCodeChallenger.git"
+  },
+  "keywords": [
+    "pumachallenger"
+  ],
+  "author": "Pedro Torreão",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroTorreao21/PumaCodeChallenger/issues"
+  },
+  "homepage": "https://github.com/PedroTorreao21/PumaCodeChallenger#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2"
+  }
+}
